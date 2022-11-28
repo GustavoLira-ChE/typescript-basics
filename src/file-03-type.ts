@@ -1,4 +1,4 @@
-(()=>{
+/* (()=>{
     let myProductName = "Product";
     myProductName.repeat(2);
     
@@ -8,4 +8,4 @@
     myArray.push("hola");
     console.log(myArray);
     myArray.map(item => console.log(item.toString()));
-})();
+})(); */

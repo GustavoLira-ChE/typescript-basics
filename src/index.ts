@@ -1,4 +1,4 @@
-//@ts-check
+/* //@ts-check
 
 (()=> {
     const myCart = [];
@@ -36,4 +36,4 @@
     }
     const rta = person.name + limit;
     console.log(rta);
-});
+}); */
