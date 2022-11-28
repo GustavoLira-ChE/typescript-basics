@@ -12,6 +12,7 @@ myShapeArray.push(circle);
 myShapeArray.push(rectagle);
 myShapeArray.push(shape);
 
-for(shape of myShapeArray) {
-    console.log(shape.getInfo());
+let shape1:Shape;
+for(shape1 of myShapeArray) {
+    console.log(shape1.getInfo());
 }
